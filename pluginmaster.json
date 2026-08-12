@@ -3,7 +3,7 @@
     "Author": "Arka",
     "Name": "SpotifyStreamer",
     "InternalName": "SpotifyStreamer",
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.3.0",
     "Punchline": "Joue tes playlists Spotify en jeu et écoute en groupe.",
     "Description": "Joue tes playlists Spotify en jeu (via YouTube) et synchronise l'écoute avec des potes.",
     "ApplicableVersion": "any",
