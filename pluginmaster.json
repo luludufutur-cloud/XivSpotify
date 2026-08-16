@@ -3,7 +3,7 @@
     "Author": "Arka",
     "Name": "SpotifyStreamer",
     "InternalName": "SpotifyStreamer",
-    "AssemblyVersion": "0.2.0.4",
+    "AssemblyVersion": "0.2.1.0",
     "Punchline": "Play your Spotify playlists in-game and listen together with friends.",
     "Description": "Plays your Spotify playlists in-game (via YouTube) and syncs playback with friends.",
     "ApplicableVersion": "any",
