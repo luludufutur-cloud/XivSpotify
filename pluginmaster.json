@@ -1,17 +1,32 @@
 [
-  {
-    "Author": "Arka",
-    "Name": "SpotifyStreamer",
-    "InternalName": "SpotifyStreamer",
-    "AssemblyVersion": "0.2.1.1",
-    "Punchline": "Play your Spotify playlists in-game and listen together with friends.",
-    "Description": "Plays your Spotify playlists in-game (via YouTube) and syncs playback with friends.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/luludufutur-cloud/XivSpotify",
-    "Tags": ["music", "spotify", "sync"],
-    "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip",
-    "DownloadLinkUpdate": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip",
-    "DownloadLinkTesting": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip"
-  }
+    {
+          "Author": "Arka",
+          "Name": "SpotifyStreamer",
+          "InternalName": "SpotifyStreamer",
+          "AssemblyVersion": "0.2.1.1",
+          "Punchline": "Play your Spotify playlists in-game and listen together with friends.",
+          "Description": "Plays your Spotify playlists in-game (via YouTube) and syncs playback with friends.",
+          "ApplicableVersion": "any",
+          "RepoUrl": "https://github.com/luludufutur-cloud/XivSpotify",
+          "Tags": ["music", "spotify", "sync"],
+          "DalamudApiLevel": 15,
+          "DownloadLinkInstall": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip",
+          "DownloadLinkUpdate": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip",
+          "DownloadLinkTesting": "https://github.com/luludufutur-cloud/XivSpotify/releases/latest/download/SpotifyStreamer.zip"
+    },
+    {
+          "Author": "Arka",
+          "Name": "Blackjack Advisor",
+          "InternalName": "BlackjackAdvisor",
+          "AssemblyVersion": "1.0.0.0",
+          "Punchline": "Suggere le meilleur coup pendant les parties de blackjack en chat.",
+          "Description": "Lit le chat, detecte les mains annoncees par le croupier, et affiche la decision optimale (strategie de base) dans un overlay. Ne clique et n'ecrit jamais rien automatiquement.",
+          "ApplicableVersion": "any",
+          "RepoUrl": "https://github.com/luludufutur-cloud/BlackjackAdvisor",
+          "Tags": ["utility", "chat"],
+          "DalamudApiLevel": 15,
+          "DownloadLinkInstall": "https://github.com/luludufutur-cloud/BlackjackAdvisor/releases/latest/download/BlackjackAdvisor.zip",
+          "DownloadLinkUpdate": "https://github.com/luludufutur-cloud/BlackjackAdvisor/releases/latest/download/BlackjackAdvisor.zip",
+          "DownloadLinkTesting": "https://github.com/luludufutur-cloud/BlackjackAdvisor/releases/latest/download/BlackjackAdvisor.zip"
+    }
 ]
